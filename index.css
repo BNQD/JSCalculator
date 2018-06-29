@@ -1,0 +1,58 @@
+.display {
+  font-size: 30px;
+  text-align: right;
+  padding-right: 40px;
+}
+
+.buttonNumbers {
+  height: 47px;
+  width:40px;
+  margin: 5px;
+}
+
+.zeroButton {
+  width: 145px;
+  height: 47px;
+  margin: 5px 5px 0px 5px;
+}
+
+.operandButtons{
+  display: block;
+  height: 47px;
+  width: 40px;
+  margin: 5px 0px 10px 0px;
+}
+
+#numbers{
+  display: inline-block;
+  vertical-align:top;
+}
+
+.equals {
+  width: 145px;
+  height: 47px;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-bottom: -20px;
+}
+
+
+.clear {
+  height: 47px; width: 40px;
+  display: inline;
+  margin: 5px;
+}
+
+#operandHolder {
+  display: inline-block;
+}
+
+#buttonHolder {
+  text-align: center;
+}
+
+#calculatorBox {
+  background: beige;
+  width: 35%;
+}
